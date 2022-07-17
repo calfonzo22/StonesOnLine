@@ -1,0 +1,172 @@
+{
+  "users": [
+    {
+      "user": "kalish",
+      "email": "kay@test.com",
+      "password": "11111111",
+      "id": 1
+    },
+    {
+      "name": "More",
+      "email": "Kalish",
+      "password": "Kay",
+      "id": 2
+    },
+    {
+      "name": "Alejandro",
+      "email": "Tech@testing.com",
+      "password": "Test23433333",
+      "id": 3
+    },
+    {
+      "name": "Karla",
+      "email": "Alejandro@testing.org",
+      "password": "Morena",
+      "id": 4
+    },
+    {
+      "name": "Karla",
+      "email": "Alejandro@testing.org",
+      "password": "Morena",
+      "id": 5
+    },
+    {
+      "name": "Karla",
+      "email": "Alejandro@testing.org",
+      "password": "Morena",
+      "id": 6
+    },
+    {
+      "name": "carlos",
+      "email": "carlos@test.com",
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "name": "kam",
+      "email": "kam",
+      "password": "kam",
+      "id": 8
+    },
+    {
+      "name": "carlos",
+      "email": "carlos",
+      "password": "carlos",
+      "id": 10
+    },
+    {
+      "name": "carlos",
+      "email": "carlos",
+      "password": "carlos",
+      "id": 11
+    },
+    {
+      "name": "karlita",
+      "email": "kalish@test.com",
+      "password": "morena",
+      "id": 12
+    },
+    {
+      "name": "carlos",
+      "email": "carlos",
+      "password": "carlos",
+      "id": 13
+    },
+    {
+      "name": "carlos",
+      "email": "carlos",
+      "password": "carlos",
+      "id": 14
+    },
+    {
+      "name": "carlos",
+      "email": "carlos",
+      "password": "carlos",
+      "id": 15
+    },
+    {
+      "name": "carl",
+      "email": "ale",
+      "password": "kalis",
+      "id": 16
+    },
+    {
+      "name": "carlos",
+      "email": "car@test.com",
+      "password": "casulidad",
+      "id": 17
+    },
+    {
+      "name": "kay",
+      "email": "yyyt",
+      "password": "4433",
+      "id": 18
+    },
+    {
+      "name": "Humberto",
+      "email": "ch@test@org",
+      "password": "test",
+      "id": 19
+    },
+    {
+      "name": "Carlos",
+      "email": "carl@yahoo.com",
+      "password": "yesis",
+      "id": 21
+    },
+    {
+      "name": "carlos",
+      "email": "carlos@test.com",
+      "password": "carlos",
+      "id": 23
+    },
+    {
+      "name": "karla@test.com",
+      "email": "karla",
+      "password": "karla",
+      "id": 24
+    },
+    {
+      "user": "kalish",
+      "email": "kay@test.com",
+      "password": "11111111",
+      "id": 25
+    },
+    {
+      "user": "calfonzo",
+      "email": "calfonzo@domain.com",
+      "password": "calfonzo",
+      "id": 26
+    },
+    {
+      "name": "Alejandra",
+      "email": "alejandra@test.com",
+      "password": "alejandra",
+      "id": 27
+    },
+    {
+      "name": "carlos",
+      "email": "carlos@test.com",
+      "password": "carlos",
+      "id": 30
+    },
+    {
+      "name": "test@test.com",
+      "email": "test",
+      "password": "test",
+      "id": 31
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 32
+    },
+    {
+      "name": "carlos2",
+      "email": "carlos2",
+      "password": "carlos2",
+      "id": 33
+    }
+  ]
+}
