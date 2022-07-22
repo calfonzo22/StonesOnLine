@@ -51,3 +51,6 @@ Password: carlos
 
 ## CREATING A NEW BRANCH
 A new branch called "dev" has been created into the project. It had already been published to the github repository. The full project had been also cloned from the main branch
+
+## New Commit
+Create a new commit addressing the comment and push it to the dev branch.
