@@ -10,15 +10,16 @@ The purpose of this project is to provide our client a way to sale his product o
 3.0 Open Terminal in VS an run the command "npm install" . This will load modules into your folder project.
 
 4.0 Run the command "npm run serve". This will give you the option to run the application from local host port 8002.
-```
+
 ### Customize configuration
 
 * This is the path for the GitHub to clone it: https://github.com/calfonzo22/StonesOnLine.gitproject:(Last Ver)
  
-* Commands:
-  nmp run serve
+### Commands:
+- npm install
+- nmp run serve
 
-  ### DATABASE
+### DATABASE
 
   A local file called db.json is used as JSON Database
   
@@ -41,7 +42,7 @@ The purpose of this project is to provide our client a way to sale his product o
 
  We can also READ and WRITE from POSTMAN API
 
-###TEST USER
+### TEST USER
 There is an user created for testing purpose:
 USER:     carlos@test.com
 Password: carlos
