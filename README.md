@@ -48,3 +48,6 @@ USER:     carlos@test.com
 Password: carlos
 
 *You are free to sigup (register) another user to test, just remember to run the local json database in order to do that.
+
+## CREATING A NEW BRANCH
+A new branch called "dev" has been created into the project. It had already been published to the github repository. The full project had been also cloned from the main branch
