@@ -1,39 +1,31 @@
-# shopping-online
+## shopping-online
+The purpose of this project is to provide our client a way to sale his product online. He already owns a store in Kitchener, but he needs to expand. In this way, a web solution is perfect for his business.
 
-## Project setup
-```
-npm install
-```
+### Project setup
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1.0 git clone https://github.com/calfonzo22/StonesOnLine.git
 
-### Compiles and minifies for production
-```
-npm run build
-```
+2.0 Open the project in Vual studio Code. 
 
-### Lints and fixes files
-```
-npm run lint
-```
+3.0 Open Terminal in VS an run the command "npm install" . This will load modules into your folder project.
 
+4.0 Run the command "npm run serve". This will give you the option to run the application from local host port 8002.
+```
 ### Customize configuration
 
-* This is the path for the project:(Last Ver)
-  C:\Spring-2022-Term\PROG8185\eCommerceVue\eCommerceVue\eCommerceVue\shopping-online
-
+* This is the path for the GitHub to clone it: https://github.com/calfonzo22/StonesOnLine.gitproject:(Last Ver)
+ 
 * Commands:
   nmp run serve
 
-  JSON Database
-  Open CMD from the DB.Json location file
+  ### DATABASE
 
-  json-server --watch db.json
+  A local file called db.json is used as JSON Database
+  
+  1.0 Open CMD from the DB.Json location file
+
+  2.0 run the command "json-server --watch db.json"
   this message must appears:
-
 * Resources
   http://localhost:3000/users
 
@@ -45,37 +37,13 @@ npm run lint
 * Now that this Database is open, we can Login and Sigup (For new users)
 
   Logout will take us to the SignUp/Signin page
-
 * While are login with a valid user, we can not go to the Signin PAGE
 
  We can also READ and WRITE from POSTMAN API
 
-* This is the path for the project:(Last Ver)
- C:\Spring-2022-Term\PROG8185\eCommerceVue\eCommerceVue\eCommerceVue\shopping-online
+###TEST USER
+There is an user created for testing purpose:
+USER:     carlos@test.com
+Password: carlos
 
-* Commands:
- nmp run serve
-
-
-* JSON Database
- Open CMD from the DB.Json location file
-
-json-server --watch db.json
-this message must appears:
-
-Resources
-  http://localhost:3000/users
-
-  Home
-  http://localhost:3000
-
-* Open the above link in the browser (http://localhost:3000/users).It will let us watch the local database (db.json)
-
-* Now that this Database is open, we can Login and Sigup (For new users)
-
- Logout will take us to the SignUp/Signin page
-
-* While are login with a valid user, we can not go to the Signin PAGE
-
-We can also READ and WRITE from POSTMAN API
-
+*You are free to sigup (register) another user to test, just remember to run the local json database in order to do that.
